@@ -1,0 +1,36 @@
+*{margin: 0%;
+padding: 0%;
+}
+body{
+    background-color:aliceblue ;
+    font-family: unset;
+}
+.search{
+    text-align: right;
+}
+form{
+    padding: 4px;
+    margin: 3px;
+}
+input{
+    margin: 2px;
+    padding: 5px;
+    border-radius: 2px;
+    background-color:skyblue;
+}
+h2{
+    text-align:left;
+    font-weight: 50px;
+}
+.sumit{
+    background-color: skyblue;
+}
+.points{
+    text-align:
+}
+.h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
